@@ -9,7 +9,7 @@ export default defineConfig({
   ],
   resolve: {
     alias: {
-      'lib-boilerplate': new URL('src/index.ts', import.meta.url).pathname,
+      workerkit: new URL('src/index.ts', import.meta.url).pathname,
     },
   },
   test: {
