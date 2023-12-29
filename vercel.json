@@ -1,7 +1,7 @@
 {
   "version": 2,
   "alias": [
-    "lib-boilerplate.vercel.app"
+    "workerkit.vercel.app"
   ],
   "github": {
     "silent": true

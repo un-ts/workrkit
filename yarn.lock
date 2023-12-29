@@ -11948,45 +11948,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lib-boilerplate@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "lib-boilerplate@workspace:."
-  dependencies:
-    "@1stg/app-config": "npm:^10.0.1"
-    "@changesets/changelog-github": "npm:^0.5.0"
-    "@changesets/cli": "npm:^2.27.1"
-    "@commitlint/cli": "npm:^18.4.3"
-    "@mdx-js/rollup": "npm:^3.0.0"
-    "@pkgr/rollup": "npm:^5.0.0"
-    "@size-limit/preset-small-lib": "npm:^11.0.1"
-    "@types/mdx": "npm:^2.0.10"
-    "@types/node": "npm:^20.10.5"
-    "@types/react": "npm:^18.2.46"
-    "@types/react-dom": "npm:^18.2.18"
-    "@types/web": "npm:^0.0.131"
-    "@vitejs/plugin-react-swc": "npm:^3.5.0"
-    "@vitest/coverage-v8": "npm:^1.1.0"
-    eslint: "npm:^8.56.0"
-    github-markdown-css: "npm:^5.5.0"
-    lint-staged: "npm:^15.2.0"
-    npm-run-all: "npm:^4.1.5"
-    react: "npm:^18.2.0"
-    react-dom: "npm:^18.2.0"
-    react-router-dom: "npm:^6.21.1"
-    rehype-slug: "npm:^6.0.0"
-    remark-gfm: "npm:^4.0.0"
-    simple-git-hooks: "npm:^2.9.0"
-    size-limit: "npm:^11.0.1"
-    stylelint: "npm:^16.1.0"
-    tslib: "npm:^2.6.2"
-    type-coverage: "npm:^2.27.1"
-    typescript: "npm:^5.3.3"
-    unplugin-auto-import: "npm:^0.17.3"
-    vite: "npm:^5.0.10"
-    vitest: "npm:^1.1.0"
-  languageName: unknown
-  linkType: soft
-
 "lib-upng@npm:3.0.0":
   version: 3.0.0
   resolution: "lib-upng@npm:3.0.0"
@@ -21204,6 +21165,45 @@ __metadata:
   checksum: 1ec6f6089f205f83037be10d0c4b34c9183b0b63fca0834a5b3cee55dd321429d73d40bb44c8fc8471b5203d6e8f8275717f49a8ff4b2b0ab41d7e1b563e0854
   languageName: node
   linkType: hard
+
+"workerkit@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "workerkit@workspace:."
+  dependencies:
+    "@1stg/app-config": "npm:^10.0.1"
+    "@changesets/changelog-github": "npm:^0.5.0"
+    "@changesets/cli": "npm:^2.27.1"
+    "@commitlint/cli": "npm:^18.4.3"
+    "@mdx-js/rollup": "npm:^3.0.0"
+    "@pkgr/rollup": "npm:^5.0.0"
+    "@size-limit/preset-small-lib": "npm:^11.0.1"
+    "@types/mdx": "npm:^2.0.10"
+    "@types/node": "npm:^20.10.5"
+    "@types/react": "npm:^18.2.46"
+    "@types/react-dom": "npm:^18.2.18"
+    "@types/web": "npm:^0.0.131"
+    "@vitejs/plugin-react-swc": "npm:^3.5.0"
+    "@vitest/coverage-v8": "npm:^1.1.0"
+    eslint: "npm:^8.56.0"
+    github-markdown-css: "npm:^5.5.0"
+    lint-staged: "npm:^15.2.0"
+    npm-run-all: "npm:^4.1.5"
+    react: "npm:^18.2.0"
+    react-dom: "npm:^18.2.0"
+    react-router-dom: "npm:^6.21.1"
+    rehype-slug: "npm:^6.0.0"
+    remark-gfm: "npm:^4.0.0"
+    simple-git-hooks: "npm:^2.9.0"
+    size-limit: "npm:^11.0.1"
+    stylelint: "npm:^16.1.0"
+    tslib: "npm:^2.6.2"
+    type-coverage: "npm:^2.27.1"
+    typescript: "npm:^5.3.3"
+    unplugin-auto-import: "npm:^0.17.3"
+    vite: "npm:^5.0.10"
+    vitest: "npm:^1.1.0"
+  languageName: unknown
+  linkType: soft
 
 "wrap-ansi-cjs@npm:wrap-ansi@^7.0.0, wrap-ansi@npm:^7.0.0":
   version: 7.0.0
