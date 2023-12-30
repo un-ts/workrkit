@@ -1,10 +1,10 @@
-# workerkit
+# workrkit
 
-[![GitHub Actions](https://github.com/un-ts/workerkit/workflows/CI/badge.svg)](https://github.com/un-ts/workerkit/actions/workflows/ci.yml)
-[![Codecov](https://img.shields.io/codecov/c/github/un-ts/workerkit.svg)](https://codecov.io/gh/un-ts/workerkit)
+[![GitHub Actions](https://github.com/un-ts/workrkit/workflows/CI/badge.svg)](https://github.com/un-ts/workrkit/actions/workflows/ci.yml)
+[![Codecov](https://img.shields.io/codecov/c/github/un-ts/workrkit.svg)](https://codecov.io/gh/un-ts/workrkit)
 [![type-coverage](https://img.shields.io/badge/dynamic/json.svg?label=type-coverage&prefix=%E2%89%A5&suffix=%&query=$.typeCoverage.atLeast&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fun-ts%2Flib-boilerplate%2Fmain%2Fpackage.json)](https://github.com/plantain-00/type-coverage)
-[![npm](https://img.shields.io/npm/v/workerkit.svg)](https://www.npmjs.com/package/workerkit)
-[![GitHub Release](https://img.shields.io/github/release/un-ts/workerkit)](https://github.com/un-ts/workerkit/releases)
+[![npm](https://img.shields.io/npm/v/workrkit.svg)](https://www.npmjs.com/package/workrkit)
+[![GitHub Release](https://img.shields.io/github/release/un-ts/workrkit)](https://github.com/un-ts/workrkit/releases)
 
 [![Conventional Commits](https://img.shields.io/badge/conventional%20commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com)
@@ -30,19 +30,19 @@ A simple library boilerplate.
 
 ```sh
 # pnpm
-pnpm add workerkit
+pnpm add workrkit
 
 # yarn
-yarn add workerkit
+yarn add workrkit
 
 # npm
-npm i workerkit
+npm i workrkit
 ```
 
 ### API
 
 ```js
-import echo from 'workerkit'
+import echo from 'workrkit'
 
 echo()
 ```

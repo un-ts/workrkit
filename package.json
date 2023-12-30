@@ -1,9 +1,9 @@
 {
-  "name": "workerkit",
+  "name": "workrkit",
   "version": "0.0.1",
   "type": "module",
   "description": "A simple library boilerplate.",
-  "repository": "git+https://github.com/un-ts/workerkit.git",
+  "repository": "git+https://github.com/un-ts/workrkit.git",
   "author": "JounQin (https://www.1stG.me) <admin@1stg.me>",
   "funding": "https://opencollective.com/unts",
   "license": "MIT",

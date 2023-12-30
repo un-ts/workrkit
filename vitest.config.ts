@@ -9,7 +9,7 @@ export default defineConfig({
   ],
   resolve: {
     alias: {
-      workerkit: new URL('src/index.ts', import.meta.url).pathname,
+      workrkit: new URL('src/index.ts', import.meta.url).pathname,
     },
   },
   test: {

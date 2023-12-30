@@ -36,8 +36,8 @@ jobs:
         with:
           publish: yarn release
           version: yarn run version
-          commit: 'chore: release workerkit'
-          title: 'chore: release workerkit'
+          commit: 'chore: release workrkit'
+          title: 'chore: release workrkit'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}

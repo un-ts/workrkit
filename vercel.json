@@ -1,7 +1,7 @@
 {
   "version": 2,
   "alias": [
-    "workerkit.vercel.app"
+    "workrkit.vercel.app"
   ],
   "github": {
     "silent": true

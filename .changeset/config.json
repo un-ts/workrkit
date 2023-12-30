@@ -3,7 +3,7 @@
   "changelog": [
     "@changesets/changelog-github",
     {
-      "repo": "un-ts/workerkit"
+      "repo": "un-ts/workrkit"
     }
   ],
   "commit": false,
